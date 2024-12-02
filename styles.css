@@ -1,0 +1,12 @@
+.container {
+    min-height: 100vh;
+  }
+  
+ 
+  .valid-feedback {
+    display: block;
+  }
+  .invalid-feedback {
+    display: block;
+  }
+  
